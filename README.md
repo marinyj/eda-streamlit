@@ -1,8 +1,8 @@
 ---
 
-# 📊 Streamlit Data Cleaning App
+# 📊 Streamlit EDA App
 
-An interactive data exploration and visualization web application built with **Python** and **Streamlit**.
+An interactive Exploratory Data Analysys (EDA), data exploration and visualization web application built with **Python** and **Streamlit**.
 
 This app allows users to upload CSV or Excel files and instantly perform data previewing, summarization, and visualization — without writing a single line of code.
 
@@ -10,13 +10,13 @@ This app allows users to upload CSV or Excel files and instantly perform data pr
 
 ## 🚀 Live Demo
 
-App Link: https://datacleaning-app-g6ehacrkvn6mxp8qfvfpra.streamlit.app/
+App Link: https://eda-app-coogvw3o3cmqdrp5kwugtp.streamlit.app/
 
 ---
 
 ## 📌 Project Overview
 
-The **Data Cleaning App** enables users to:
+The **EDA App** enables users to:
 
 * Upload CSV or Excel datasets
 * View dataset structure and statistics
